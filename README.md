@@ -9,7 +9,7 @@ Single cell integration by disentangle represent learning
    embeddings: Ncell x zdim  
    recovery gene expression: Ncell x Ngene  
 # Installing
-git clone https://github.com/guott15/SCIDRL.git
+git clone https://github.com/guott15/SCIDRL.git 
 cd SCIDRL 
 python setup.py build  
 python setup.by install  
