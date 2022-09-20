@@ -10,7 +10,7 @@ Single cell integration by disentangle represent learning
    recovery gene expression: Ncell x Ngene  
 # Installing
 git clone git@github.com:guott15/SCIDRL.git  
-cd SPIRAL  
+cd SCIDRL 
 python setup.py build  
 python setup.by install  
 
