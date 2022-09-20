@@ -9,7 +9,7 @@ Single cell integration by disentangle represent learning
    embeddings: Ncell x zdim  
    recovery gene expression: Ncell x Ngene  
 # Installing
-git clone https://github.com/guott15/SPIRAL.git  
+git clone git@github.com:guott15/SCIDRL.git  
 cd SPIRAL  
 python setup.py build  
 python setup.by install  
