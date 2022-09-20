@@ -1,6 +1,6 @@
 # SCIDRL v1.0
 Single cell integration by disentangle represent learning
-![image](https://github.com/guott15/SCIDRL/blob/master/F1.png)
+![image](https://github.com/guott15/SCIDRL/blob/master/image/F1.png)
 # Usage
 * Input  
    feature mat: Ncell x Ngene    
