@@ -1,16 +1,16 @@
-# SCIDRL_revise
-single cell integration by disentangle represent learning
-
-required packages:
-
-python 3.7:
-
-tensorflow-gpu=2.1.0;
-keras
-
-R 4.1:
-
-Seurat;
-lisi
+# SCIDRL v1.0
+Single cell integration by disentangle represent learning
+# Usage
+* Input  
+   feature mat: Ncell x Ngene    
+   meta mat: Ncell x 2: domain label and batch label  
+ * Output  
+   embeddings: Ncell x zdim  
+   recovery gene expression: Ncell x Ngene  
+# Installing
+git clone https://github.com/guott15/SPIRAL.git  
+cd SPIRAL  
+python setup.py build  
+python setup.by install  
 
 
