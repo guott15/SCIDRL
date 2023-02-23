@@ -1,0 +1,2 @@
+params.fg_lambda: 0.1,0.5,1.0,5.0
+params.acts:'sigmoid' if there are two batches; 'softmax' if there are more than two batches.
